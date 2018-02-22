@@ -1,7 +1,7 @@
 # Welcome to Apeksha's "Khana-Khazana"
-### Making Indian food is no more challenging
-### Quick 10 minute recipes at your disposal
-### Welcome to GitHub Pages
+#### Making Indian food is no more difficult
+#### Quick 10 minute recipes at your disposal
+#### Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/agk84/CHEME_5500_WC_4/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
