@@ -1,10 +1,6 @@
 ## _The Top 10 Indian Dishes Everyone Should Try_
-
-You can use the [editor on GitHub](https://github.com/agk84/CHEME_5500_WC_4/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+10. Vada Pav
+![vadapav](https://user-images.githubusercontent.com/36171682/36572201-625d2b38-1808-11e8-90aa-ac5b888f963a.jpg)
 
 
 
