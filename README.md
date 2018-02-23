@@ -1,14 +1,22 @@
 ## _The Top 10 Indian Dishes Everyone Should Try_
 
-*10. Paneer Tikka Masala*
+
+**10. Paneer Tikka Masala**
+
+![paneertikkamasala](https://user-images.githubusercontent.com/36171682/36572324-10bc8674-1809-11e8-8909-5f9ce4ffacbd.jpg)
+
+Paneer tikka masala is an Indian dish of marinated paneer cheese served in a spiced gravy. It is a vegetarian alternative to chicken tikka masala.
 
 
-
-*9. Vada Pav*
+**9. Vada Pav**
 
 ![vadapav](https://user-images.githubusercontent.com/36171682/36572201-625d2b38-1808-11e8-90aa-ac5b888f963a.jpg)
 
 The dish consists of a deep fried potato dumpling placed inside a bread bun (pav) sliced almost in half through the middle. It is generally accompanied with one or more chutneys and a green chilli pepper.
+
+
+**8. Gajar Halwa** 
+
 
 
 
