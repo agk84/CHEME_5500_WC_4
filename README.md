@@ -36,7 +36,11 @@ The dosa is made in the usual way by soaking rice and lentils overnight in water
 Chicken is marinated for several hours in a cream, yogurt and spice mixture. The spices may include garam masala, ginger, garlic, lemon or lime, pepper, coriander, cumin, turmeric and chili. The chicken is usually cooked in a tandoor (traditional clay oven), but may be grilled, roasted, or pan fried. It is served in a mild curry sauce that includes butter. 
 
 
-## **5. Chicken Tandoori**
+## **5. Tandoori Chicken**
+
+![tandoori-chicken](https://user-images.githubusercontent.com/36171682/36572639-f361df0a-180a-11e8-8441-f9e4cbf9de29.jpg)
+
+The raw chicken is marinated in a mixture of yogurt and the spice tandoori masala. Cayenne pepper, red chili powder or Kashmiri red chili powder is used to give it a fiery red hue. The marinated chicken is placed on skewers and cooked at high temperatures in a heated clay oven known as the tandoor. It is heated with charcoal or wood which adds to the smoky flavour. 
 
 
 
