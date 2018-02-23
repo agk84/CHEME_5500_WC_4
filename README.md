@@ -31,6 +31,15 @@ The dosa is made in the usual way by soaking rice and lentils overnight in water
 
 ## **6. Butter Chicken**
 
+![butterchicken](https://user-images.githubusercontent.com/36171682/36572550-74a82778-180a-11e8-9f7e-6a67a116583e.jpg)
+
+Chicken is marinated for several hours in a cream, yogurt and spice mixture. The spices may include garam masala, ginger, garlic, lemon or lime, pepper, coriander, cumin, turmeric and chili. The chicken is usually cooked in a tandoor (traditional clay oven), but may be grilled, roasted, or pan fried. It is served in a mild curry sauce that includes butter. 
+
+
+## **5. Chicken Tandoori**
+
+
+
 
 
 
