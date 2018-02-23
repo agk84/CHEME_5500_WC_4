@@ -1,27 +1,34 @@
-## _The Top 10 Indian Dishes Everyone Should Try_
+# _The Top 10 Indian Dishes Everyone Should Try_
 
 
-**10. Paneer Tikka Masala**
+## **10. Paneer Tikka Masala**
 
 ![paneertikkamasala](https://user-images.githubusercontent.com/36171682/36572324-10bc8674-1809-11e8-8909-5f9ce4ffacbd.jpg)
 
 Paneer tikka masala is an Indian dish of marinated paneer cheese served in a spiced gravy. It is a vegetarian alternative to chicken tikka masala.
 
 
-**9. Vada Pav**
+## **9. Vada Pav**
 
 ![vadapav](https://user-images.githubusercontent.com/36171682/36572201-625d2b38-1808-11e8-90aa-ac5b888f963a.jpg)
 
 The dish consists of a deep fried potato dumpling placed inside a bread bun (pav) sliced almost in half through the middle. It is generally accompanied with one or more chutneys and a green chilli pepper.
 
 
-**8. Gajar ka Halwa** 
+## **8. Gajar ka Halwa** 
 
 ![gajarhalwa](https://user-images.githubusercontent.com/36171682/36572380-7bd1a7e6-1809-11e8-9b39-538039ffaaa9.JPG)
 
 It is a carrot-based sweet dessert pudding from the Indian subcontinent. It is made by placing grated carrots in a pot containing a specific amount of water, milk and sugar and then cooking while stirring regularly. It is often served with a garnish of almonds and pistachios. The nuts and other items used are first sautéed in ghee, a South Asian clarified butter.
 
-**7. Masala Dosa**
+
+## **7. Masala Dosa**
+
+![dosa](https://user-images.githubusercontent.com/36171682/36572471-fec6ed6e-1809-11e8-8672-43dfd98d0897.jpg)
+
+The dosa is made in the usual way by soaking rice and lentils overnight in water and then grinding it to a batter. The stuffing is made from boiled potatoes with a seasoning of mustard seeds and garnishing of grated coconut, coriander, and lemon juice.
+
+
 
 
 
