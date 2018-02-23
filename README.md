@@ -1,4 +1,4 @@
-## _The top 10 Indian Recipes_
+## _The Top 10 Indian Dishes Everyone Should Try_
 
 You can use the [editor on GitHub](https://github.com/agk84/CHEME_5500_WC_4/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
