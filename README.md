@@ -50,7 +50,16 @@ The raw chicken is marinated in a mixture of yogurt and the spice tandoori masal
 Pav bhaji is a fast food dish from Maharashtra, India, consisting of a thick vegetable curry made of potatoes, cauliflower, peas and capsicum and is served with a soft bread roll.
 
 
-## ** 3. 
+## **3. Biryani**
+
+![d815e816-4664-472e-990b-d880be41499f--chicken-biryani-recipe](https://user-images.githubusercontent.com/36171682/36572867-028c0b1c-180c-11e8-9f97-fc53b61e614f.jpg)
+
+The ingredients used in biryani may include ghee (clarified butter), nutmeg, pepper, cloves, cardamom, cinnamon, bay leaves, coriander, mint leaves, ginger, onions, tomatoes, and garlic. The premium varieties include saffron. In all biryani, the main ingredient that accompanies the spices is the chicken and mutton; special varieties also use beef and seafood. The dish may be served with dahi chutney or raita, korma, curry and salad.
+
+
+## **2. Gulab Jamun**
+
+
 
 
 
