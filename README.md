@@ -1,11 +1,18 @@
 ## _The Top 10 Indian Dishes Everyone Should Try_
-10. Vada Pav
+
+*10. Paneer Tikka Masala*
+
+
+
+*9. Vada Pav*
+
 ![vadapav](https://user-images.githubusercontent.com/36171682/36572201-625d2b38-1808-11e8-90aa-ac5b888f963a.jpg)
 
+The dish consists of a deep fried potato dumpling placed inside a bread bun (pav) sliced almost in half through the middle. It is generally accompanied with one or more chutneys and a green chilli pepper.
 
 
 
-![cat](https://user-images.githubusercontent.com/36171682/36556501-63b8b446-17d3-11e8-94b7-05bd99ad5ce4.jpg)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
