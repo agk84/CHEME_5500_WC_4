@@ -1,4 +1,4 @@
-# _The Top 10 Indian Dishes Everyone Should Try_
+# _The Top 10 Indian Dishes You Should Definitely Try_
 
 
 ## **10. Paneer Tikka Masala**
@@ -72,4 +72,4 @@ Milk solids are prepared by heating milk over a low flame for a long time until 
 
 
 
-## _Hope you try all of these delicious dishes in future_ ;)
+## _Try these first and thank me later_ ;)
