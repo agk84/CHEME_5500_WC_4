@@ -43,6 +43,16 @@ Chicken is marinated for several hours in a cream, yogurt and spice mixture. The
 The raw chicken is marinated in a mixture of yogurt and the spice tandoori masala. Cayenne pepper, red chili powder or Kashmiri red chili powder is used to give it a fiery red hue. The marinated chicken is placed on skewers and cooked at high temperatures in a heated clay oven known as the tandoor. It is heated with charcoal or wood which adds to the smoky flavour. 
 
 
+## **4. Pav Bhaji**
+
+![pavbhaji](https://user-images.githubusercontent.com/36171682/36572704-4aba05ca-180b-11e8-9308-cdf242fcec20.jpg)
+
+Pav bhaji is a fast food dish from Maharashtra, India, consisting of a thick vegetable curry made of potatoes, cauliflower, peas and capsicum and is served with a soft bread roll.
+
+
+## ** 3. 
+
+
 
 
 
