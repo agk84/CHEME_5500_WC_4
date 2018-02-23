@@ -15,7 +15,13 @@ Paneer tikka masala is an Indian dish of marinated paneer cheese served in a spi
 The dish consists of a deep fried potato dumpling placed inside a bread bun (pav) sliced almost in half through the middle. It is generally accompanied with one or more chutneys and a green chilli pepper.
 
 
-**8. Gajar Halwa** 
+**8. Gajar ka Halwa** 
+
+![gajarhalwa](https://user-images.githubusercontent.com/36171682/36572380-7bd1a7e6-1809-11e8-9b39-538039ffaaa9.JPG)
+
+It is a carrot-based sweet dessert pudding from the Indian subcontinent. It is made by placing grated carrots in a pot containing a specific amount of water, milk and sugar and then cooking while stirring regularly. It is often served with a garnish of almonds and pistachios. The nuts and other items used are first sautéed in ghee, a South Asian clarified butter.
+
+**7. Masala Dosa**
 
 
 
