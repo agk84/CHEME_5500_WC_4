@@ -1,4 +1,4 @@
-# _The Top 10 Indian Dishes You Should Definitely Try_
+# _Top 10 Indian Dishes You Should Definitely Try_
 
 
 ## **10. Paneer Tikka Masala**
